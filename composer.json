@@ -1,0 +1,20 @@
+{
+    "name": "facteur-dev/facteur-php",
+    "description": "A PHP SDK to send transactional emails with Facteur.dev",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "FacteurDev\\FacteurPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexis Bouchez",
+            "email": "alexis@valyent.dev"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.7"
+    }
+}
