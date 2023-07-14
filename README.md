@@ -11,7 +11,7 @@
 ## Installation
 
 ```bash
-composer require facteurdev/facteur-php
+composer require facteur-dev/facteur-php
 ```
 
 ## Usage
